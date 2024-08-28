@@ -6,6 +6,9 @@
 
 MalayaLLM AI Assistant is a comprehensive speech-to-speech pipeline that enables users to interact with an AI assistant in the Malayalam language. The application integrates state-of-the-art Automatic Speech Recognition (ASR), Voice Activity Detection (VAD), Text-to-Speech (TTS), and Natural Language Processing (NLP) to create a seamless user experience. This project is developed in Python and uses a variety of libraries to perform real-time audio processing, transcription, and response generation.
 
+##  Demo Video
+<video controls autoplay src="https://github.com/user-attachments/assets/027bbbb1-623a-458f-b76d-7e6e852de964"></video>
+
 ## Features
 
 - **Automatic Speech Recognition (ASR):** Converts spoken Malayalam into text using a pretrained Wav2Vec2 model.
@@ -135,9 +138,6 @@ Replace `<porcupine_token>` in the code with your actual Porcupine access token.
     - After starting the server, you can access the basic web UI via your browser at the following address:
       [http://localhost:8080](http://localhost:8080)
 <img src="https://cdn-uploads.huggingface.co/production/uploads/64e65800e44b2668a56f9731/te7d5xjMrtk6RDMEAxmCy.png" alt="Baby MalayaLLM" width="600" height="auto">
-
-##  Demo Video
-<video controls autoplay src="https://github.com/user-attachments/assets/027bbbb1-623a-458f-b76d-7e6e852de964"></video>
 
 ## Future Work
 
